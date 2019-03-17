@@ -3,6 +3,9 @@
 
 
 
+
+### March 17, 2019 
+- [software architecture](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b?fbclid=IwAR0soB6RbZp2vJzRJ_3qI6dI-9DhLl-QknFkOn7jWoD7O-cn5QKlneYhXf0) 
 ### February 17, 2019 
 - [Software Engineering Advice from Building Large-Scale Distributed Systems by Jeff Dean - SysTutorials](https://www.systutorials.com/3439/software-engineering-advice-from-building-large-scale-distributed-systems-by-jeff-dean/) 
 ### January 21, 2019 
