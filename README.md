@@ -4,6 +4,9 @@
 
 
 
+
+### April 21, 2019 
+- [RoadToDataScientist1.png (1550×1258)](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png) 
 ### March 17, 2019 
 - [software architecture](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b?fbclid=IwAR0soB6RbZp2vJzRJ_3qI6dI-9DhLl-QknFkOn7jWoD7O-cn5QKlneYhXf0) 
 ### February 17, 2019 
