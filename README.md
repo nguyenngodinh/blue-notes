@@ -10,6 +10,7 @@
 - [Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) 
 - [technology-radar-vol-19-en.pdf](https://assets.thoughtworks.com/assets/technology-radar-vol-19-en.pdf) 
 - [KHMT blog](https://procul.org/blog/) 
+- [Kinh nghiệm tìm việc làm](https://vnhacker.blogspot.com/2011/11/kinh-nghiem-tim-viec-lam-o-silicon.html?utm_source=grokking&utm_campaign=online) 
 ### April 21, 2019 
 - [RoadToDataScientist1.png (1550×1258)](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png) 
 ### March 17, 2019 
