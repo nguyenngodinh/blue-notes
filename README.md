@@ -9,6 +9,7 @@
 ### April 24, 2019 
 - [Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) 
 - [technology-radar-vol-19-en.pdf](https://assets.thoughtworks.com/assets/technology-radar-vol-19-en.pdf) 
+- [KHMT blog](https://procul.org/blog/) 
 ### April 21, 2019 
 - [RoadToDataScientist1.png (1550×1258)](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png) 
 ### March 17, 2019 
