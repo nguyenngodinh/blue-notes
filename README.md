@@ -6,6 +6,9 @@
 
 
 
+
+### April 25, 2019 
+- [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/?fbclid=IwAR2j4-eAHguLrHok5LYbVrjYzK3LZjkHmwIQ64Fjv9y0XQaw0ufb-dtH9Bs) 
 ### April 24, 2019 
 - [Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b) 
 - [technology-radar-vol-19-en.pdf](https://assets.thoughtworks.com/assets/technology-radar-vol-19-en.pdf) 
