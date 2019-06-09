@@ -10,6 +10,7 @@
 
 ### June 10, 2019 
 - [Stack History: A Timeline of Uber's Tech Stack Evolution | StackShare](https://stackshare.io/stack-history-timeline-uber-tech-stack-evolution?utm_campaign=Grokking%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter) 
+- [Project Mezzanine: The Great Migration | Uber Engineering Blog](https://eng.uber.com/mezzanine-migration/) 
 ### April 25, 2019 
 - [How Does a Database Work? | Let’s Build a Simple Database](https://cstack.github.io/db_tutorial/?fbclid=IwAR2j4-eAHguLrHok5LYbVrjYzK3LZjkHmwIQ64Fjv9y0XQaw0ufb-dtH9Bs) 
 ### April 24, 2019 
