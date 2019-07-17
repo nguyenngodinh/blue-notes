@@ -8,6 +8,9 @@
 
 
 
+
+### July 18, 2019 
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/?fbclid=IwAR3QR-ljzfFvIB1FLwF1-b54tpxtYDzwu_B16ck5Ofq3yM8Zvy_DXz4uH4E) 
 ### June 10, 2019 
 - [Stack History: A Timeline of Uber's Tech Stack Evolution | StackShare](https://stackshare.io/stack-history-timeline-uber-tech-stack-evolution?utm_campaign=Grokking%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter) 
 - [Project Mezzanine: The Great Migration | Uber Engineering Blog](https://eng.uber.com/mezzanine-migration/) 
