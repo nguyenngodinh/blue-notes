@@ -9,6 +9,8 @@
 
 
 
+### August 24, 2019 
+- [Programming the ESP8266 With the Arduino IDE in 3 Simple Steps ](https://dzone.com/articles/programming-the-esp8266-with-the-arduino-ide-in-3) 
 ### July 18, 2019 
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/?fbclid=IwAR3QR-ljzfFvIB1FLwF1-b54tpxtYDzwu_B16ck5Ofq3yM8Zvy_DXz4uH4E) 
 ### June 10, 2019 
