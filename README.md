@@ -6,9 +6,9 @@
 
 
 
-
-
-
+### Septemper 3, 2019 
+- [network measurement tool ](https://community.calix.com/s/article/How-to-use-iPerf-for-bandwidththroughput-tests-1) 
+- [QoS ](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/qos/521_n1_1/b_5k_QoS_Config_521N11/b_5k_QoS_Config_521N11_chapter_0111.html) 
 ### August 24, 2019 
 - [Programming the ESP8266 With the Arduino IDE in 3 Simple Steps ](https://dzone.com/articles/programming-the-esp8266-with-the-arduino-ide-in-3) 
 ### July 18, 2019 
