@@ -6,6 +6,9 @@
 
 
 
+
+### September 11, 2019 
+- [linux networking tool](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/70183323_2569610426593376_7808867168287719424_n.jpg?_nc_cat=104&_nc_oc=AQmGzn4xCS-OB-3RWV0_D5bP_F55xrIkUe0mLhLrlRe26D0WU7e3Zwmm-9csMQQ-f60&_nc_ht=scontent.fhan2-4.fna&oh=30a904f071044d08807e9f22c4f64094&oe=5DFCFF89) 
 ### Septemper 3, 2019 
 - [network measurement tool ](https://community.calix.com/s/article/How-to-use-iPerf-for-bandwidththroughput-tests-1) 
 - [QoS ](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5000/sw/qos/521_n1_1/b_5k_QoS_Config_521N11/b_5k_QoS_Config_521N11_chapter_0111.html) 
