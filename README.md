@@ -7,6 +7,9 @@
 
 
 
+
+### September 16, 2019 
+- [Copying large files with Rsync, and some misconceptions - Fedora Magazine](https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/?fbclid=IwAR1RT5mM8sKlGCElnJsZfVYm-9GUBlNG0J5ZLu12rzqw_K1jh9fK8jkCtEo) 
 ### September 11, 2019 
 - [linux networking tool](https://scontent.fhan2-4.fna.fbcdn.net/v/t1.0-9/70183323_2569610426593376_7808867168287719424_n.jpg?_nc_cat=104&_nc_oc=AQmGzn4xCS-OB-3RWV0_D5bP_F55xrIkUe0mLhLrlRe26D0WU7e3Zwmm-9csMQQ-f60&_nc_ht=scontent.fhan2-4.fna&oh=30a904f071044d08807e9f22c4f64094&oe=5DFCFF89) 
 ### Septemper 3, 2019 
