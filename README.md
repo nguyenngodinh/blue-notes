@@ -8,6 +8,9 @@
 
 
 
+
+### October 14, 2019 
+- [Offensive Netcat/Ncat: From Port Scanning To Bind Shell IP Whitelisting](https://medium.com/@PenTest_duck/offensive-netcat-ncat-from-port-scanning-to-bind-shell-ip-whitelisting-834689b103da) 
 ### September 16, 2019 
 - [Copying large files with Rsync, and some misconceptions - Fedora Magazine](https://fedoramagazine.org/copying-large-files-with-rsync-and-some-misconceptions/?fbclid=IwAR1RT5mM8sKlGCElnJsZfVYm-9GUBlNG0J5ZLu12rzqw_K1jh9fK8jkCtEo) 
 ### September 11, 2019 
