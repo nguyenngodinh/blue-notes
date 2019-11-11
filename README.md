@@ -7,8 +7,11 @@
 
 
 
-
-
+### November 11, 2019 
+- [Nagios: system monitor ](https://en.wikipedia.org/wiki/Nagios)
+- [Nagios source](https://github.com/NagiosEnterprises/nagioscore/releases)
+- [Nagios plugin](https://nagios-plugins.org/downloads/)
+- [Nagios quick guide](https://www.tutorialspoint.com/nagios/nagios_quick_guide.htm)
 ### October 14, 2019 
 - [Offensive Netcat/Ncat: From Port Scanning To Bind Shell IP Whitelisting](https://medium.com/@PenTest_duck/offensive-netcat-ncat-from-port-scanning-to-bind-shell-ip-whitelisting-834689b103da) 
 ### September 16, 2019 
