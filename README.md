@@ -7,6 +7,9 @@
 
 
 
+
+### December 5, 2019 
+- [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b) 
 ### November 11, 2019 
 - [Nagios: system monitor ](https://en.wikipedia.org/wiki/Nagios)
 - [Nagios source](https://github.com/NagiosEnterprises/nagioscore/releases)
