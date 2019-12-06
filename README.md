@@ -7,7 +7,8 @@
 
 
 
-
+### December 6, 2019 
+- [kubernetes](https://kubernetes.io/docs/tutorials/hello-minikube/) 
 ### December 5, 2019 
 - [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b) 
 ### November 11, 2019 
