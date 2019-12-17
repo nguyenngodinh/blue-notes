@@ -7,6 +7,9 @@
 
 
 
+
+### December 17, 2019 
+- [David Abel notes](https://david-abel.github.io/) 
 ### December 6, 2019 
 - [kubernetes](https://kubernetes.io/docs/tutorials/hello-minikube/) 
 ### December 5, 2019 
